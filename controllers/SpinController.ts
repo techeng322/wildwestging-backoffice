@@ -42,7 +42,7 @@ export const getSpinResultsHandler = async (
 };
 
 // currently, only mock data returns
-// we need to add logic in below functions in the future 
+// I am thinking I should add main logic in below functions
 
 const createPlayer = () => ({
 	"error": 0,
