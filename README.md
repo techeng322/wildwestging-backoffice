@@ -1,9 +1,3 @@
-# Recoup Agent APIs
-
-## Overview
-
-The Recoup Agent APIs provide a comprehensive interface for managing and interacting with the wrapped funnel system. This project aims to streamline the process of handling API interactions in a reliable and efficient manner.
-
 ## Getting Started
 
 To get started with the Recoup Agent APIs:
@@ -11,8 +5,8 @@ To get started with the Recoup Agent APIs:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/voicefirstai/Recoup-Agent-APIs.git
-cd Recoup-Agent-APIs
+git https://github.com/techeng322/wildwestging-backoffice
+cd wildwestging-backoffice
 ```
 
 2. Install pnpm (if not already installed)
